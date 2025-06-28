@@ -4,6 +4,3 @@ services:
      image: "rishee30/notes-app:latest"     
      ports:
          - "8000:8000"
-
-
-
